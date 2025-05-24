@@ -1,0 +1,96 @@
+clear
+insert 10
+Екатерина
+120
+100
+100000
+2015-10-12
+DIRECTOR
+FIRED
+no
+insert 11
+Алексей
+1
+12
+20000
+2017-10-02
+CLEANER
+REGULAR
+no
+insert 12
+Михаил
+7
+6
+20500
+2022-05-02
+MANAGER_OF_CLEANING
+REGULAR
+no
+insert 13
+Юлия
+17
+6
+31500
+2002-09-02
+BAKER
+PROBATION
+no
+insert 14
+Виктория
+17
+5
+31777
+2025-04-30
+BAKER
+RECOMMENDED_FOR_PROMOTION
+no
+insert 15
+Виктория
+17
+5
+31777
+2023-04-30
+BAKER
+RECOMMENDED_FOR_PROMOTION
+no
+insert 16
+Виктор
+2000
+400
+40000
+2024-04-30
+BAKER
+RECOMMENDED_FOR_PROMOTION
+no
+insert 17
+Вероника
+2000
+400
+40000
+2024-04-30
+BAKER
+RECOMMENDED_FOR_PROMOTION
+no
+insert 18
+Алина
+2000
+400
+40000
+2024-04-30
+BAKER
+RECOMMENDED_FOR_PROMOTION
+no
+insert 19
+Виктор
+2000
+400
+40000
+2024-04-30
+BAKER
+RECOMMENDED_FOR_PROMOTION
+no
+show
+info
+remove_lower_key 15
+execute_script Script1.txt
+save

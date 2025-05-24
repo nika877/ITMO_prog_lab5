@@ -1,0 +1,67 @@
+{
+  "19": {
+    "Id": 1747827143297,
+    "Name": "Виктор",
+    "Coordinates": {
+      "X": 2000.0,
+      "Y": 400.0
+    },
+    "CreationDate": 1747827143297,
+    "Salary": 40000.0,
+    "StartDate": "2024-04-30",
+    "Position": "BAKER",
+    "Status": "RECOMMENDED_FOR_PROMOTION"
+  },
+  "18": {
+    "Id": 1747827143297,
+    "Name": "Алина",
+    "Coordinates": {
+      "X": 2000.0,
+      "Y": 400.0
+    },
+    "CreationDate": 1747827143297,
+    "Salary": 40000.0,
+    "StartDate": "2024-04-30",
+    "Position": "BAKER",
+    "Status": "RECOMMENDED_FOR_PROMOTION"
+  },
+  "17": {
+    "Id": 1747827143297,
+    "Name": "Вероника",
+    "Coordinates": {
+      "X": 2000.0,
+      "Y": 400.0
+    },
+    "CreationDate": 1747827143297,
+    "Salary": 40000.0,
+    "StartDate": "2024-04-30",
+    "Position": "BAKER",
+    "Status": "RECOMMENDED_FOR_PROMOTION"
+  },
+  "16": {
+    "Id": 1747827143297,
+    "Name": "Виктор",
+    "Coordinates": {
+      "X": 2000.0,
+      "Y": 400.0
+    },
+    "CreationDate": 1747827143297,
+    "Salary": 40000.0,
+    "StartDate": "2024-04-30",
+    "Position": "BAKER",
+    "Status": "RECOMMENDED_FOR_PROMOTION"
+  },
+  "15": {
+    "Id": 1747827143297,
+    "Name": "Виктория",
+    "Coordinates": {
+      "X": 17.0,
+      "Y": 5.0
+    },
+    "CreationDate": 1747827143297,
+    "Salary": 31777.0,
+    "StartDate": "2023-04-30",
+    "Position": "BAKER",
+    "Status": "RECOMMENDED_FOR_PROMOTION"
+  }
+}
